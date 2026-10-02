@@ -1,2 +1,27 @@
-# rwc
-Study resources for David Wong's book "Real-world cryptography" (2021)
+# Real-world cryptography
+
+- Author: David Wong
+- Publisher: [Manning](https://www.manning.com/books/real-world-cryptography)
+- Edition: 2021
+- Cost: I purchased the print version (which includes e-book access) for 30 USD, plus 5.5 USD shipping, from Manning during a 50%-off sale in December 2025.
+
+## Book reviews
+
+- My review: (pending)
+- Other reviews:
+    - [CryptoHack Blog](https://blog.cryptohack.org/real-world-cryptography-review)
+    - [David Wong](https://www.cryptologie.net/posts/real-world-cryptography-a-bit-more-than-a-year-later/) (the author)
+        - Less a review, more a request for reviews
+    - [Reddit](https://www.reddit.com/r/crypto/comments/rxjum6/realworld_cryptography_by_david_wong_2021_book/) (sparse thread)
+
+
+
+## Notes
+
+Chapter title links to my outline for the chapter (here on GitHub).
+
+| Chapter | Title                                      |
+|--------:|:-------------------------------------------|
+|       0 | [Preface and About this book](notes/00.md) |
+|       1 | [Introduction](notes/01.md)                |
+|       2 | [Hash functions](notes/02.md)              |
